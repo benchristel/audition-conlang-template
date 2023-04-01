@@ -1,0 +1,37 @@
+body {
+  background: #def;
+  margin: 16px;
+}
+
+article {
+  max-width: 50em;
+}
+
+x-out {
+  position: relative;
+  cursor: default;
+}
+
+x-src {
+  display: none;
+}
+
+x-out:hover {
+  background: #dfd;
+  border-bottom: 1px solid #00f;
+}
+
+x-out:hover x-src {
+  display: block;
+  position: absolute;
+  z-index: 1;
+  pointer-events: none;
+  top: 1.8em;
+  left: 0;
+  box-shadow: 0 0 6px #0002, inset 0 1px #fff;
+  border: 1px solid #ccc;
+  padding: 2px 6px;
+  background: #eee;
+  font-size: 0.8em;
+  text-shadow: 0 1px #fff;
+}

@@ -1,0 +1,24 @@
+default:
+  [syl]
+  [syl][po]
+
+syl:
+  [c][v][f]
+
+po:
+  [c][v]
+
+c:
+  m      n
+  p b    t d     k g
+  f v    s z     h
+         0.2*ch 0.2*j
+  w      l r     y
+
+v:
+  i   u
+  e   o
+  a
+
+f:
+  n l r s 0.2*z

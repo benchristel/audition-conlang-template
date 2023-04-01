@@ -1,0 +1,14 @@
+{
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": ".*",
+        "cmd": "./build/main"
+      },
+    ]
+  },
+  "files.exclude": {
+    "*.html": true,
+    "*.md": true,
+  }
+}
