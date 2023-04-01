@@ -8,7 +8,5 @@
     ]
   },
   "files.exclude": {
-    "*.html": true,
-    "*.md": true,
   }
 }
