@@ -41,7 +41,7 @@ The suffix __<x-out>-lex<x-src>BLANK#INST</x-src></x-out>__ forms the names of t
 The suffix __<x-out>-ma<x-src>BLANK#ABST</x-src></x-out>__ forms words for abstract concepts.
 
 - __<x-out>aedrama<x-src>tall0#ABST</x-src></x-out>__ "height" &larr; __<x-out>aedra<x-src>tall0</x-src></x-out>__ "tall"
-- __<x-out>vantirma<x-src>guard#ABST</x-src></x-out>__ "defense" &larr; __<x-out>vantir<x-src>guard</x-src></x-out>__ "a guard"
+- __<x-out>vantma<x-src>guard1#ABST</x-src></x-out>__ "defense" &larr; __<x-out>vant<x-src>guard1</x-src></x-out>__ "guarding"
 - __<x-out>tialma<x-src>friend#ABST</x-src></x-out>__ "friendship" &larr; __<x-out>tial<x-src>friend</x-src></x-out>__ "friend"
 - __<x-out>riwaltma<x-src>king#ABST</x-src></x-out>__ "kingship, monarchy" &larr; __<x-out>riwalt<x-src>king</x-src></x-out>__ "king"
 

@@ -41,7 +41,7 @@ The suffix __BLANK#INST__ forms the names of tools, weapons, and other artificia
 The suffix __BLANK#ABST__ forms words for abstract concepts.
 
 - __tall0#ABST__ "height" &larr; __tall0__ "tall"
-- __guard#ABST__ "defense" &larr; __guard__ "a guard"
+- __guard1#ABST__ "defense" &larr; __guard1__ "guarding"
 - __friend#ABST__ "friendship" &larr; __friend__ "friend"
 - __king#ABST__ "kingship, monarchy" &larr; __king__ "king"
 
