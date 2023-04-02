@@ -7,6 +7,15 @@ article {
   max-width: 50em;
 }
 
+bottom-spacer {
+  /* adds space at the bottom of the scrollable page content,
+   * ensuring that if you follow a link to a heading, the heading
+   * will end up near the top of the browser window.
+   */
+  height: 50vh;
+  display: block;
+}
+
 code {
   white-space: pre;
 }
