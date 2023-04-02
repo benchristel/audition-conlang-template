@@ -8,3 +8,19 @@ inflections:
     - ["$", "os"]
   0:
     - ["$", "we"]
+  AGT:
+    - ["^BLANK$", "-(d)ir"]
+    - ["([aeiou])$", "$1dir"]
+    - ["$", "ir"]
+  INST:
+    - ["^BLANK$", "-lex"]
+    - ["[aeiou]?$", "lex"]
+  ABST:
+    - ["^BLANK$", "-ma"]
+    - ["$", "ma"]
+  GIVE:
+    - ["^BLANK$", "-(a)nna"]
+    - ["([aeiou])$", "$1nna"]
+    - ["$", "anna"]
+compound:
+  - ["[aeiou]$", "^([aeiou])", "", "$1"]

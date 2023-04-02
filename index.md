@@ -8,18 +8,13 @@ Or, in __<x-out>Valdaean<x-src>EXONYM</x-src></x-out>__, "__<x-out>Yessev<x-src>
   - [Consonants](pronunciation.html#consonants)
   - [Vowels](pronunciation.html#vowels)
   - [Stress](pronunciation.html#stress)
-
-<!--
 - [Word Formation](word-formation.html)
   - [Nouns](word-formation.html#nouns)
   - [Relations](word-formation.html#relations)
--->
-
 - [Forms of Nouns](todo.html)
   - [Singular](todo.html)
   - [Plural](todo.html)
   - [Definite](todo.html)
-
 - [Forms of Relations](todo.html)
   - [Modifiers](todo.html)
   - [Main Verbs](todo.html)
@@ -29,8 +24,8 @@ Or, in __<x-out>Valdaean<x-src>EXONYM</x-src></x-out>__, "__<x-out>Yessev<x-src>
   - [Future Tense](todo.html)
   - [Hypothetical Tense](todo.html)
   - [Narrative Tense](todo.html)
-
 - [Word Order](todo.html)
   - [Noun Phrases](todo.html)
   - [Verb Phrases](todo.html)
   - [Sentences](todo.html)
+- [Dictionary](todo.html)

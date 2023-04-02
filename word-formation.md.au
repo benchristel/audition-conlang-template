@@ -1,0 +1,58 @@
+# Word Formation
+
+__EXONYM__ has two main parts of speech: *nouns* and *relations*.
+Nouns are like English nouns: they name a person, place, thing, or concept.
+Relations cover the uses of English adjectives, verbs, and prepositions.
+
+This page covers the rules for forming new words in each of these categories.
+
+## Nouns
+
+### Compounds
+
+Nouns can be made by compounding two nouns:
+
+- __[pine+forest]__ "pine-forest" &larr; __pine__ "pine" + __forest__ "forest"
+- __[town+guard]__ "town guard" &larr; __town__ "town" + __guard__ "guard"
+- __[guard+house]__ "guard-house" &larr; __guard__ "guard" + __house__ "house"
+
+The main noun (which answers the question "what kind of thing is this?") always comes last,
+as in English.
+
+Nouns can also be formed by prefixing a relation to an existing noun.
+
+- __[green0+forest]__ "Greenwood" &larr; __green0__ "green" + __forest__ "forest"
+
+### Noun-forming Suffixes
+
+Several suffixes can be added to either nouns or relations to create new nouns.
+
+The suffix __BLANK#AGT__ forms a word for a profession or person:
+
+- __gold#AGT__ "goldsmith" &larr; __gold__ "gold"
+- __farm#AGT__ "farmer" &larr; __farm__ "farm"
+- __run0#AGT__ "runner" &larr; __run0__ "running"
+
+The suffix __BLANK#INST__ forms the names of tools, weapons, and other artificial devices.
+
+- __slay1#INST__ "sword" &larr; __slay1__ "slaying, cutting down"
+- __lock1#INST__ "a lock" &larr; __lock1__ "locking"
+
+The suffix __BLANK#ABST__ forms words for abstract concepts.
+
+- __tall0#ABST__ "height" &larr; __tall0__ "tall"
+- __guard#ABST__ "defense" &larr; __guard__ "a guard"
+- __friend#ABST__ "friendship" &larr; __friend__ "friend"
+- __king#ABST__ "kingship, monarchy" &larr; __king__ "king"
+
+## Relations
+
+There are also suffixes that create new relations, either from nouns or from existing relations.
+
+The suffix __BLANK#GIVE__ has the meaning "giving or producing". Relations formed
+with this suffix are *ditransitive*: that is, they take both a direct object and an indirect
+object.
+
+- __word#GIVE__ "to say (something) to (someone)" &larr; __word__ "word"
+- __know1#GIVE__ "to teach (something) to (someone)" &larr; __know1__ "knowing"
+
