@@ -53,6 +53,8 @@ The suffix __<x-out>-(a)nna<x-src>BLANK#GIVE</x-src></x-out>__ has the meaning "
 with this suffix are *ditransitive*: that is, they take both a direct object and an indirect
 object.
 
-- __<x-out>lexanna<x-src>word#GIVE</x-src></x-out>__ "to say (something) to (someone)" &larr; __<x-out>lex<x-src>word</x-src></x-out>__ "word"
-- __<x-out>intyenna<x-src>know1#GIVE</x-src></x-out>__ "to teach (something) to (someone)" &larr; __<x-out>intye<x-src>know1</x-src></x-out>__ "knowing"
+- __<x-out>lexanna<x-src>word#GIVE</x-src></x-out>__ "to say (to someone) (something)" &larr; __<x-out>lex<x-src>word</x-src></x-out>__ "word"
+- __<x-out>intyenna<x-src>know1#GIVE</x-src></x-out>__ "to teach (someone) (something)" &larr; __<x-out>intye<x-src>know1</x-src></x-out>__ "knowing"
+- __<x-out>(eat1??)anna<x-src>eat1#GIVE</x-src></x-out>__ "to feed (someone) (something)" &larr; __<x-out>(eat1??)<x-src>eat1</x-src></x-out>__ "eating"
 
+The indirect object (the recipient of the action or the thing given) always comes first.

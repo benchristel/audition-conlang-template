@@ -53,6 +53,8 @@ The suffix __BLANK#GIVE__ has the meaning "giving or producing". Relations forme
 with this suffix are *ditransitive*: that is, they take both a direct object and an indirect
 object.
 
-- __word#GIVE__ "to say (something) to (someone)" &larr; __word__ "word"
-- __know1#GIVE__ "to teach (something) to (someone)" &larr; __know1__ "knowing"
+- __word#GIVE__ "to say (to someone) (something)" &larr; __word__ "word"
+- __know1#GIVE__ "to teach (someone) (something)" &larr; __know1__ "knowing"
+- __eat1#GIVE__ "to feed (someone) (something)" &larr; __eat1__ "eating"
 
+The indirect object (the recipient of the action or the thing given) always comes first.
