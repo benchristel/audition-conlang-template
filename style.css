@@ -7,6 +7,10 @@ article {
   max-width: 50em;
 }
 
+code {
+  white-space: pre;
+}
+
 x-out {
   position: relative;
   cursor: default;

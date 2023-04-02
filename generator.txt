@@ -1,24 +1,46 @@
 default:
-  [syl]
-  [syl][po]
-
-syl:
-  [c][v][f]
-
-po:
-  [c][v]
+  0.1*[v]
+  0.2*[c][v]
+  0.2*[v][ff]
+  [c][v][ff]
+  0.3*[v][m][v]
+  [c][v][m][v]
+  0.5*[v][m][v][ff]
+  [c][v][m][v][ff]
+  0.15*[v][c][v][m][v]
+  0.25*[c][v][c][v][m][v]
 
 c:
   m      n
-  p b    t d     k g
-  f v    s z     h
-         0.2*ch 0.2*j
+  0.5*p b    t d     k 0.5*g
+  f v    s 0.2*z     0.7*h
   w      l r     y
+  [cl]
 
 v:
-  i   u
-  e   o
-  a
+  3*i   u
+  4*e   2*o
+  3*a
+
+m:
+  [f][c]
+  [c]
 
 f:
   n l r s 0.2*z
+
+ff:
+  5*[f]
+  [rt]
+
+cl:
+  0.2*pr br tr dr 0.2*kr gr fr vr hr
+  0.2*pl 0.2*bl kl gl hl fl vl hl
+  0.2*sr 0.2*sl
+
+rt:
+  mp mb nt nd nk ng
+  lp lb lt ld lk lg
+  rp rb rt rd rk rg
+  rm rn
+  lm ln
