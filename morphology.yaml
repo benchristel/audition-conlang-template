@@ -22,5 +22,8 @@ inflections:
     - ["^BLANK$", "-(a)nna"]
     - ["([aeiou])$", "$1nna"]
     - ["$", "anna"]
+  CAUS:
+    - ["^BLANK$", "-ia"]
+    - ["(y?[aeiou])?$", "ia"]
 compound:
   - ["[aeiou]$", "^([aeiou])", "", "$1"]

@@ -26,5 +26,9 @@ lock,n,*lock1#INST
 tall0,n,aedra
 friend,n,tial
 king,n,riwalt
-word,n,lex
+word,n,ley
+eat1,p,kalpi
 know1,p,intye
+die0,p,vuru
+kill1,p,*die0#CAUS
+red0,p,karya

@@ -53,8 +53,14 @@ The suffix __<x-out>-(a)nna<x-src>BLANK#GIVE</x-src></x-out>__ has the meaning "
 with this suffix are *ditransitive*: that is, they take both a direct object and an indirect
 object.
 
-- __<x-out>lexanna<x-src>word#GIVE</x-src></x-out>__ "to say (to someone) (something)" &larr; __<x-out>lex<x-src>word</x-src></x-out>__ "word"
+- __<x-out>leyanna<x-src>word#GIVE</x-src></x-out>__ "to say (to someone) (something)" &larr; __<x-out>ley<x-src>word</x-src></x-out>__ "word"
 - __<x-out>intyenna<x-src>know1#GIVE</x-src></x-out>__ "to teach (someone) (something)" &larr; __<x-out>intye<x-src>know1</x-src></x-out>__ "knowing"
-- __<x-out>(eat1??)anna<x-src>eat1#GIVE</x-src></x-out>__ "to feed (someone) (something)" &larr; __<x-out>(eat1??)<x-src>eat1</x-src></x-out>__ "eating"
+- __<x-out>kalpinna<x-src>eat1#GIVE</x-src></x-out>__ "to feed (someone) (something)" &larr; __<x-out>kalpi<x-src>eat1</x-src></x-out>__ "eating"
 
 The indirect object (the recipient of the action or the thing given) always comes first.
+
+The suffix __<x-out>-ia<x-src>BLANK#CAUS</x-src></x-out>__ has a similar meaning, but creates a *transitive* relation (which takes
+only a direct object). It can only be applied to relations, not nouns.
+
+- __<x-out>vuria<x-src>die0#CAUS</x-src></x-out>__ "killing (someone)" &larr; __<x-out>vuru<x-src>die0</x-src></x-out>__ "dying"
+- __<x-out>karia<x-src>red0#CAUS</x-src></x-out>__ "reddening (something)" (e.g. painting it red) &larr; __<x-out>karya<x-src>red0</x-src></x-out>__ "red"

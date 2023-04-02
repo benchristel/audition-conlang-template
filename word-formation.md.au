@@ -58,3 +58,9 @@ object.
 - __eat1#GIVE__ "to feed (someone) (something)" &larr; __eat1__ "eating"
 
 The indirect object (the recipient of the action or the thing given) always comes first.
+
+The suffix __BLANK#CAUS__ has a similar meaning, but creates a *transitive* relation (which takes
+only a direct object). It can only be applied to relations, not nouns.
+
+- __die0#CAUS__ "killing (someone)" &larr; __die0__ "dying"
+- __red0#CAUS__ "reddening (something)" (e.g. painting it red) &larr; __red0__ "red"
