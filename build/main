@@ -1,3 +1,10 @@
 #!/bin/sh -x
 
-au
+au -s
+
+for name in *.md; do
+  <$name md | template build/page.html >$(basename -s .md $name).html
+done
+
+<index.md md | template build/index-template.html >index.html
+
