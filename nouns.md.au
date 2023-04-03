@@ -1,0 +1,64 @@
+# Forms of Nouns
+
+## Singular
+
+The dictionary form of nouns in __EXONYM__ has no implication of singular or plural.
+It can be used to refer to one thing or many.
+
+To explicitly make a noun singular, add the suffix __BLANK#SG__.
+
+- __home__ &rarr; __home#SG__ "a home"
+- __guard__ &rarr; __guard#SG__ "a guard"
+- __house__ &rarr; __house#SG__ "a building"
+- __town__ &rarr; __town#SG__ "a town"
+- __pine__ &rarr; __pine#SG__ "a pine"
+- __farm__ &rarr; __farm#SG__ "a farm"
+- __friend__ &rarr; __friend#SG__ "a friend"
+- __king__ &rarr; __king#SG__ "a king"
+- __word__ &rarr; __word#SG__ "a word"
+
+Nouns ending in **-x** have singular forms ending in **-k**:
+
+- __sword__ &rarr; __sword#SG__ "a sword"
+- __lock__ &rarr; __lock#SG__ "a lock"
+
+Adding __BLANK#SG__ to a noun that would be a _mass noun_ (a non-pluralizable noun) in English
+creates the meaning "a piece of...". For example:
+
+- __gold__ &rarr; __gold#SG__ "gold coin" (literally, "a piece of gold")
+
+There is another singular suffix, __BLANK#PEJSG__, which is used to refer to despised things:
+
+- __guard__ &rarr; __guard#PEJSG__ "damn guard"
+- __house__ &rarr; __house#PEJSG__ "damn house"
+
+## Plural
+
+The plural suffix is __BLANK#PL__:
+
+- __home__ &rarr; __home#PL__ "homes"
+- __guard__ &rarr; __guard#PL__ "guards"
+- __house__ &rarr; __house#PL__ "buildings"
+- __town__ &rarr; __town#PL__ "towns"
+- __pine__ &rarr; __pine#PL__ "pines"
+- __farm__ &rarr; __farm#PL__ "farms"
+- __friend__ &rarr; __friend#PL__ "friends"
+- __king__ &rarr; __king#PL__ "kings"
+- __word__ &rarr; __word#PL__ "words"
+
+There is also a plural suffix for referring to despised things:
+
+- __guard__ &rarr; __guard#PEJPL__ "damn guards"
+- __house__ &rarr; __house#PEJPL__ "damn houses"
+
+## Definite
+
+The __EXONYM__ *definite article* __BLANK#DEF__ is similar to the English word "the". It marks a noun as
+referring to something that the listener already knows about.
+
+- __king#DEF__ "the king"
+- __town#DEF__ "the town"
+
+---
+
+Next: [Forms of Relations](relations.html)

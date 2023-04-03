@@ -64,3 +64,5 @@ only a direct object). It can only be applied to relations, not nouns.
 
 - __<x-out>vuria<x-src>die0#CAUS</x-src></x-out>__ "killing (someone)" &larr; __<x-out>vuru<x-src>die0</x-src></x-out>__ "dying"
 - __<x-out>karia<x-src>red0#CAUS</x-src></x-out>__ "reddening (something)" (e.g. painting it red) &larr; __<x-out>karya<x-src>red0</x-src></x-out>__ "red"
+
+Next: [Forms of Nouns](nouns.html)

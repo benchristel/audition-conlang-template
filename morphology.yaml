@@ -3,10 +3,13 @@ inflections:
   PERF:
     - ["$", "v"]
   DEF:
+    - ["^BLANK$", "an"]
     - ["^", "an "]
   GER:
+    - ["^BLANK$", "-os"]
     - ["$", "os"]
   0:
+    - ["^BLANK$", "-we"]
     - ["$", "we"]
   AGT:
     - ["^BLANK$", "-(d)ir"]
@@ -25,5 +28,20 @@ inflections:
   CAUS:
     - ["^BLANK$", "-ia"]
     - ["(y?[aeiou])?$", "ia"]
+  SG:
+    - ["^BLANK$", "-(e)l"]
+    - ["([aeiou])$", "$1l"]
+    - ["x$", "k"]
+    - ["$", "el"]
+  PL:
+    - ["^BLANK$", "-(r)im"]
+    - ["([aeiou])$", "$1rim"]
+    - ["$", "im"]
+  PEJSG:
+    - ["^BLANK$", "-ul"]
+    - ["$", "ul"]
+  PEJPL:
+    - ["^BLANK$", "-ots"]
+    - ["$", "ots"]
 compound:
   - ["[aeiou]$", "^([aeiou])", "", "$1"]

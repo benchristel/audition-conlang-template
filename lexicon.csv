@@ -17,13 +17,13 @@ forest,n,osko
 green0,p,lirya
 gold,n,keart
 farm,n,relab
-run0,n,*quick0
-quick0,n,litya
+run0,p,*quick0
+quick0,p,litya
 slay1,p,kali
 sword,n,*slay1#INST
 lock1,p,waru
 lock,n,*lock1#INST
-tall0,n,aedra
+tall0,p,aedra
 friend,n,tial
 king,n,riwalt
 word,n,ley
