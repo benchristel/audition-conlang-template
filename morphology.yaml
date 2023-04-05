@@ -1,5 +1,7 @@
 ---
 inflections:
+  INTR:
+    - ["([aeiou])$", "$1st$1"]
   PERF:
     - ["$", "v"]
   DEF:
@@ -43,5 +45,14 @@ inflections:
   PEJPL:
     - ["^BLANK$", "-ots"]
     - ["$", "ots"]
+  TAIL:
+    - ["^([^aeiou]+)([aeiou])", "$2-$1$2"]
+    - ["^([aeiou])", "$1-h$1"]
+  PASS:
+    - ["^BLANK$", "-as"]
+    - ["[aeiou]+$", "as"]
+  INF:
+    - ["^BLANK$", "-an"]
+    - ["[aou]?$", "an"]
 compound:
   - ["[aeiou]$", "^([aeiou])", "", "$1"]

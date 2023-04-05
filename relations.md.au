@@ -1,0 +1,61 @@
+# Relations
+
+As mentioned in the section on [word formation](word-formation.html), *relations* are a __EXONYM__ part of speech that subsumes the roles of verbs, adjectives, adverbs, and prepositions in English. A relation either describes a *property* of something, or describes
+its *relationship* to or *interaction* with another thing.
+
+## Modifiers
+
+A relation can *modify* a noun, as an adjective can in English. A relation used as a modifier simply follows the noun it modifies. The relation keeps its dictionary form.
+
+- __king tall0__ "a tall king" (__tall0__ = "tall")
+- __forest green0__ "a green forest" (__green0__ = "green")
+
+A noun may have multiple relations modifying it. Relations after the first have their first
+vowel reduplicated and prefixed. If the relation begins with a vowel, an **h** gets inserted after the prefix.
+
+- __forest tall0 green0#TAIL__ "a tall, green forest"
+- __forest green0 tall0#TAIL__ "a green, tall forest"
+
+Some relations act like prepositions, and require a noun to follow them.
+
+- __king#DEF in1 house#DEF__ "the king in the house"
+
+More generally, a relation may have a *direct object*—the thing being acted on. The direct object follows the relation.
+
+- __guard eat1 bread__ "a guard (who is) eating bread" (__eat1__ = "eat", __bread__ = "bread")
+- __guard tall0 eat1#TAIL bread__ "a tall guard (who is) eating bread"
+
+Relations can modify other relations, similar to how adverbs and some adjectives can modify
+adjectives in English.
+
+- __forest green0 bright0__ "a bright green forest (the green is bright)"
+- __forest green0 bright0#TAIL__ "a bright, green forest (the forest is bright)"
+
+## Passive Voice
+
+Putting a relation in the _passive voice_ makes its object the subject. The passive voice
+is formed by suffixing __BLANK#PASS__:
+
+- __eat1#PASS__ "being eaten" &larr; __eat1__ "eating"
+
+Examples:
+
+- __guard#DEF eat1__ "the guard who is eating"
+- __guard#DEF eat1#PASS__ "the guard who is being eaten"
+
+## Main Relations
+
+The main relation of a sentence expresses the main action or state the sentence is talking about. It is preceded by a particle __MAIN__.
+
+- __king#DEF#CAP MAIN eat1 bread.__ "The king eats bread."
+- __forest#DEF#CAP MAIN green0.__ "The forest is green."
+
+## Infinitives
+
+The infinitive form of a relation is formed by suffixing __BLANK#INF__.
+
+- __king#DEF#CAP MAIN want1 eat1#INF bread__ "The king wants to eat bread."
+
+---
+
+Next: [Word Order](word-order.html)

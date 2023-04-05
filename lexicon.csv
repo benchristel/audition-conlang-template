@@ -2,6 +2,8 @@ id,pos,translation,generator
 ENDONYM,p,valdea#0,
 EXONYM,p,Valdaean,
 BLANK,,BLANK
+MAIN,,az
+M1,,i
 meet1,p,yesse,
 good0,p,kin,
 in1,p,va,
@@ -28,7 +30,11 @@ friend,n,tial
 king,n,riwalt
 word,n,ley
 eat1,p,kalpi
+want1,p,nael
+eat0,p,*eat1#INTR
 know1,p,intye
 die0,p,vuru
 kill1,p,*die0#CAUS
 red0,p,karya
+bread,n,renk
+bright0,p,sivna
